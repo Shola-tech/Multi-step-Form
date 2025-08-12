@@ -1,8 +1,4 @@
-Got it — you want me to strip out all the “Note: Delete this…” placeholders and make this README actually ready for your Frontend Mentor submission.
 
-Here’s your cleaned and updated **README.md** for your **Vanilla HTML/CSS/JS multi-step form**:
-
----
 
 # Frontend Mentor - Multi-step form solution
 
@@ -106,7 +102,6 @@ In future projects, I’d like to:
 * Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 * Twitter – [@yourusername](https://twitter.com/yourusername)
 
----
 
 If you want, I can also write **two short “challenges & lessons learned” blurbs** that you can directly paste into the **Frontend Mentor submission form** so you don’t have to think about it later. That would save you some time.
 
